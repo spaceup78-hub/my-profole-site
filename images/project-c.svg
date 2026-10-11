@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="gc" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#2563eb" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="#0a0a0a"/>
+  <!-- 모바일 앱 목업 -->
+  <rect x="290" y="40" width="220" height="420" rx="30" fill="#111" stroke="#3f3f46" stroke-width="3"/>
+  <rect x="304" y="56" width="192" height="388" rx="20" fill="#0a0a0a"/>
+  <rect x="370" y="60" width="60" height="6" rx="3" fill="#27272a"/>
+  <!-- 상단 -->
+  <rect x="324" y="88" width="90" height="10" rx="3" fill="#fafafa"/>
+  <circle cx="470" cy="93" r="10" fill="url(#gc)"/>
+  <!-- 큰 카드 -->
+  <rect x="324" y="116" width="152" height="110" rx="12" fill="url(#gc)"/>
+  <rect x="338" y="196" width="80" height="8" rx="3" fill="#fafafa"/>
+  <rect x="338" y="210" width="50" height="6" rx="3" fill="#fafafa" fill-opacity="0.6"/>
+  <!-- 리스트 -->
+  <rect x="324" y="246" width="152" height="46" rx="10" fill="#171717" stroke="#27272a"/>
+  <rect x="336" y="258" width="22" height="22" rx="6" fill="#10b981"/>
+  <rect x="368" y="260" width="80" height="7" rx="3" fill="#fafafa"/>
+  <rect x="368" y="274" width="60" height="6" rx="3" fill="#52525b"/>
+
+  <rect x="324" y="302" width="152" height="46" rx="10" fill="#171717" stroke="#27272a"/>
+  <rect x="336" y="314" width="22" height="22" rx="6" fill="#2563eb"/>
+  <rect x="368" y="316" width="72" height="7" rx="3" fill="#fafafa"/>
+  <rect x="368" y="330" width="56" height="6" rx="3" fill="#52525b"/>
+
+  <rect x="324" y="358" width="152" height="46" rx="10" fill="#171717" stroke="#27272a"/>
+  <rect x="336" y="370" width="22" height="22" rx="6" fill="#a855f7"/>
+  <rect x="368" y="372" width="84" height="7" rx="3" fill="#fafafa"/>
+  <rect x="368" y="386" width="60" height="6" rx="3" fill="#52525b"/>
+  <!-- 하단 탭바 -->
+  <rect x="324" y="420" width="152" height="4" rx="2" fill="#27272a"/>
+  <!-- 좌우 설명 블록 -->
+  <rect x="80" y="180" width="170" height="10" rx="4" fill="#fafafa"/>
+  <rect x="80" y="200" width="130" height="10" rx="4" fill="#fafafa" fill-opacity="0.5"/>
+  <rect x="80" y="230" width="150" height="6" rx="3" fill="#52525b"/>
+  <rect x="80" y="244" width="120" height="6" rx="3" fill="#52525b"/>
+  <rect x="80" y="258" width="140" height="6" rx="3" fill="#52525b"/>
+  <rect x="80" y="296" width="110" height="30" rx="15" fill="#fafafa"/>
+  <rect x="560" y="180" width="170" height="10" rx="4" fill="#fafafa"/>
+  <rect x="560" y="200" width="130" height="10" rx="4" fill="#fafafa" fill-opacity="0.5"/>
+  <rect x="560" y="230" width="150" height="6" rx="3" fill="#52525b"/>
+  <rect x="560" y="244" width="120" height="6" rx="3" fill="#52525b"/>
+  <rect x="560" y="258" width="140" height="6" rx="3" fill="#52525b"/>
+  <text x="60" y="482" font-family="Roboto Mono, monospace" font-size="16" fill="#fff" fill-opacity="0.6">PROJECT C / SAMPLE</text>
+</svg>

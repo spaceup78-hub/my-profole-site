@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#0a0a0a"/>
+  <!-- 브라우저 창 -->
+  <rect x="60" y="50" width="680" height="400" rx="10" fill="#111" stroke="#2a2a2a"/>
+  <rect x="60" y="50" width="680" height="34" rx="10" fill="#1a1a1a"/>
+  <rect x="60" y="72" width="680" height="12" fill="#1a1a1a"/>
+  <circle cx="82" cy="67" r="5" fill="#3f3f46"/><circle cx="98" cy="67" r="5" fill="#3f3f46"/><circle cx="114" cy="67" r="5" fill="#3f3f46"/>
+  <rect x="300" y="59" width="200" height="16" rx="8" fill="#0a0a0a"/>
+  <!-- 내비 -->
+  <rect x="60" y="84" width="680" height="30" fill="#0f0f0f"/>
+  <rect x="84" y="95" width="60" height="8" rx="2" fill="#60a5fa"/>
+  <rect x="600" y="95" width="36" height="8" rx="2" fill="#3f3f46"/>
+  <rect x="646" y="95" width="36" height="8" rx="2" fill="#3f3f46"/>
+  <rect x="692" y="95" width="36" height="8" rx="2" fill="#3f3f46"/>
+  <!-- 히어로 -->
+  <rect x="84" y="150" width="260" height="22" rx="3" fill="#fafafa"/>
+  <rect x="84" y="182" width="200" height="22" rx="3" fill="#fafafa" fill-opacity="0.5"/>
+  <rect x="84" y="222" width="300" height="8" rx="4" fill="#52525b"/>
+  <rect x="84" y="238" width="250" height="8" rx="4" fill="#52525b"/>
+  <rect x="84" y="270" width="120" height="30" rx="15" fill="#2563eb"/>
+  <rect x="216" y="270" width="110" height="30" rx="15" stroke="#52525b" fill="none"/>
+  <!-- 오른쪽 그래픽 -->
+  <rect x="440" y="150" width="280" height="180" rx="8" fill="url(#ga)"/>
+  <defs>
+    <linearGradient id="ga" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
+  <!-- 하단 카드 3개 -->
+  <rect x="84" y="340" width="180" height="82" rx="8" fill="#171717" stroke="#27272a"/>
+  <rect x="284" y="340" width="180" height="82" rx="8" fill="#171717" stroke="#27272a"/>
+  <rect x="484" y="340" width="236" height="82" rx="8" fill="#171717" stroke="#27272a"/>
+  <rect x="100" y="356" width="60" height="6" rx="3" fill="#60a5fa"/>
+  <rect x="100" y="372" width="120" height="5" rx="2" fill="#3f3f46"/>
+  <rect x="300" y="356" width="60" height="6" rx="3" fill="#60a5fa"/>
+  <rect x="300" y="372" width="120" height="5" rx="2" fill="#3f3f46"/>
+  <rect x="500" y="356" width="60" height="6" rx="3" fill="#60a5fa"/>
+  <rect x="500" y="372" width="140" height="5" rx="2" fill="#3f3f46"/>
+  <text x="60" y="482" font-family="Roboto Mono, monospace" font-size="16" fill="#fff" fill-opacity="0.6">PROJECT A / SAMPLE</text>
+</svg>
